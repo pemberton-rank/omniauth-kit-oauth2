@@ -6,11 +6,11 @@ require "omniauth/kit/version"
 Gem::Specification.new do |spec|
   spec.name          = "omniauth-kit-oauth2"
   spec.version       = Omniauth::Kit::VERSION
-  spec.authors       = ["Anton Murygin"]
-  spec.email         = ["mibus32@gmail.com"]
 
   spec.summary       = %q{Kit strategy for OmniAuth}
-  spec.homepage      = "https://github.com/pemberton-rank/omniauth-kit-oauth2"
+  spec.authors       = ["Pemberton Rank Ltd"]
+  spec.email         = ["hello@pembertonrank.com"]
+  spec.homepage      = "https://www.pembertonrank.com"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
