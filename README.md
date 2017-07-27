@@ -2,7 +2,7 @@
 
 This is a Omniauth strategy for [Kit](https://kitcrm.com/)
 
-More info at [https://kitcrm.com/developers]
+More info at https://kitcrm.com/developers
 
 ## Usage
 
